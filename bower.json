@@ -1,0 +1,18 @@
+{
+  "name": "KeyboardJS",
+  "description": "A library for binding to keys and key combos without the pain of key codes and key combo conflicts.",
+  "version": "0.4.2",
+  "homepage": "http://robertwhurst.github.com/KeyboardJS/",
+  "authors": [
+    "Robert Hurst <RobertWHurst@gmail.com>"
+  ],
+  "main": "keyboard.js",
+  "keywords": [
+    "Key Binding",
+    "Keyboard",
+    "Key combos",
+    "Keyboard Shortcuts"
+  ],
+  "license": "BSD",
+  "private": true
+}
